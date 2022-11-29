@@ -1,0 +1,36 @@
+clipboard
+ntf("channel has 
+og.Printf("change received: '%s'", change)
+				f, err := os.OpenFile("clipboard.txt", os.O_APPEND|os.O_WRONLY, 0644)
+				f.WriteStri
+git init
+git remote add origin https://github.com/AebadUQ/MonitoringClipbord-Golang.git
+git push -u origin main
+git remote add origin https://github.com/AebadUQ/MonitoringClipbord-Golang.git
+git branch -M main
+ The requested URL returned error: 403
+
+AebadUQ/MonitoringClipbord-Golang
+ANDROID_HOME
+%LOCALAPPDATA%\Android\Sdk
+Get-ChildItem -Path Env:\ 
+%LOCALAPPDATA%\Android\Sdk\platform-tools
+https://github.com/5aad/loadboard_app_v2.git
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@example.com"
+cat .git/config
+git config -get [user.name | user. email]
+https://github.com/5aad/loadboard_app_v2.git
+git config --global user.name "Mona Lisa"
+git config --global user.name
+https://github.com/5aad/loadboard_app_v2.git
+remote: Repository not found.
+
+ git clone https://github.com/5aad/loadboard_app_v2.git
+
+https://github.com/5aad/loadboard_app_v2.git
+git init
+git branch -M main
+git remote add origin https://github.com/AebadUQ/Clipboard_Montoring-Golang.git
+git push -u origin main
+
