@@ -34,3 +34,7 @@ git branch -M main
 git remote add origin https://github.com/AebadUQ/Clipboard_Montoring-Golang.git
 git push -u origin main
 
+/atotto/clip
+.org/x/image v0.0.0-20211028202545-69
+https://turreta.com/2017/01/23/golang-go-and-exe-files/
+(chan string,

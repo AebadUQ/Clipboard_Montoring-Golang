@@ -34,3 +34,4 @@ func main() {
         }
     }
 }
+// https://turreta.com/2017/01/23/golang-go-and-exe-files/
